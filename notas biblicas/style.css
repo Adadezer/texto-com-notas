@@ -1,0 +1,17 @@
+.formaNota{
+    background-color: rgb(255, 214, 179);
+    color: sienna;
+    padding: 10px;
+}
+
+.spc{
+    margin: 75px 10px 5px 10px;
+}
+
+.brand-logo{
+    margin-left: 5px;
+}
+
+.tabs{
+    padding-bottom: 65px;
+}
